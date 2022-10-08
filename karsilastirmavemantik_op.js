@@ -27,4 +27,6 @@ console.log(a < c) //true
 console.log(a < c && c != b) // cevap true 
 
 // || veya 
-console.log()
+console.log(c === a || d > a) // cevap true çünkü 2nci kısım true 
+
+// ! değil ise (!(a >= c)) nin tersini vermesidir.
