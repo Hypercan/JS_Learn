@@ -30,3 +30,4 @@ console.log(a < c && c != b) // cevap true
 console.log(c === a || d > a) // cevap true çünkü 2nci kısım true 
 
 // ! değil ise (!(a >= c)) nin tersini vermesidir.
+console.log(!2);
