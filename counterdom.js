@@ -11,10 +11,9 @@ function clickEvent() {
     // **********First Method **********
 
     /* console.log(this.id)
-    // if (this.id == "increase") {
-    //     counterDOM.innerHTML = counter += 1
-    // }
-    // else
+    if (this.id == "increase") {
+    counterDOM.innerHTML = counter += 1 }
+    else
     counterDOM.innerHTML = counter -= 1 */
 
     // ************Second Method*************
